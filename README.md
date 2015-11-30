@@ -10,7 +10,6 @@ Language: PYTHON, PHP, HTML, CSS,JAVASCRIPT.
 Database: MongoDB.
 
 Team Members:
-
-https://in.linkedin.com/in/vivek-thakur-964420ab
-https://www.facebook.com/idontknowwhy
-https://www.facebook.com/mol.rox
+https://in.linkedin.com/in/vivek-thakur-964420ab,
+ https://www.facebook.com/idontknowwhy,
+ https://www.facebook.com/mol.rox
